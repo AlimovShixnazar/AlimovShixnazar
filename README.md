@@ -15,7 +15,7 @@
 - TypeScript
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=ALIMOVSHIXNAZAR&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=AlimovShixnazar&show_icons=true&theme=dark)
 
 ## 📌 Projects
 - Pizza Online Shop
