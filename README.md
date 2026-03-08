@@ -6,11 +6,12 @@
 
 ## 🚀 Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,python,numpy,pandas" />
 </p>
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=alimovshixnazar&show_icons=true&theme=dark)
+## Languages
+Uzbek Advanced
+English Intermediate
 
 ## 📌 Projects
 - Pizza Online Shop
