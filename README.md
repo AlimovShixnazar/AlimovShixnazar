@@ -10,8 +10,8 @@
 </p>
 
 ## Languages
-Uzbek Advanced
-English Intermediate
+- Uzbek Advanced,
+- English Intermediate
 
 ## 📌 Projects
 - Pizza Online Shop
