@@ -1,7 +1,7 @@
 # Hi 👋 I'm Shixnazar
 
 💻 Frontend Developer  
-🎓 9th Grade Student from Uzbekistan  
+🎓 Student from Uzbekistan  
 🚀 Passionate about Web Development
 
 ## 🚀 Technologies
@@ -15,8 +15,8 @@
 - TypeScript
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?alimovshixnazar=ALIMOVSHIXNAZAR&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=ALIMOVSHIXNAZAR&show_icons=true)
 
 ## 📌 Projects
 - Pizza Online Shop
-- Gas Station Booking System
+- Creatix Online education
