@@ -6,7 +6,7 @@
 
 ## 🚀 Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,python,numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,python,numpy,pandas,vscode" />
 </p>
 
 ## Languages
