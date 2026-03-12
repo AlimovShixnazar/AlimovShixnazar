@@ -12,6 +12,9 @@
 ## Languages
 - Uzbek Advanced,
 - English Intermediate
+## :trophy: AlimovShixnazar's Github Stats:
+
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimovshixnazar&theme=github_dark) 
 
 ## 📌 Projects
 - Pizza Online Shop
