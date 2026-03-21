@@ -19,3 +19,4 @@
 ## 📌 Projects
 - Pizza Online Shop
 - Creatix Online education
+- Weather api
