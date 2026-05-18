@@ -10,7 +10,7 @@
 </p>
 
 ## Languages
-- Uzbek Advanced,
+- Uzbek Native,
 - English Intermediate
 
 ## 📌 Projects
